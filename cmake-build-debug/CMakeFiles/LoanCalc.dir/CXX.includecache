@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dzirt/CLionProjects/LoanCalc/Mortgage.h
+
+C:/Users/dzirt/CLionProjects/LoanCalc/main.cpp
+iostream
+-
+Mortgage.h
+C:/Users/dzirt/CLionProjects/LoanCalc/Mortgage.h
+

@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/dzirt/CLionProjects/LoanCalc/Mortgage.cpp" "C:/Users/dzirt/CLionProjects/LoanCalc/cmake-build-debug/CMakeFiles/LoanCalc.dir/Mortgage.cpp.obj"
   "C:/Users/dzirt/CLionProjects/LoanCalc/main.cpp" "C:/Users/dzirt/CLionProjects/LoanCalc/cmake-build-debug/CMakeFiles/LoanCalc.dir/main.cpp.obj"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

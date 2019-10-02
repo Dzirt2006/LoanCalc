@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/dzirt/CLionProjects/LoanCalc/Mortgage.cpp
+Mortgage.h
 C:/Users/dzirt/CLionProjects/LoanCalc/Mortgage.h
-
-C:/Users/dzirt/CLionProjects/LoanCalc/main.cpp
+math.h
+-
 iostream
 -
-Mortgage.h
+
 C:/Users/dzirt/CLionProjects/LoanCalc/Mortgage.h
 

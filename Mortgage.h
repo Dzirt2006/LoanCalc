@@ -16,10 +16,12 @@ class Mortgage {
 //prototypes
 private:
     double CalcTerm(double,int);
-public:
+    double CalcInterest(double,double);
     double CalcPayment(Vars);
+public:
+    double TotalCalc(Vars);
 //initialize struct
-Vars Joey={10000,0.4,20};
+Vars Joey={10000,0.04,1};//amount/percent/years
 
 
 };

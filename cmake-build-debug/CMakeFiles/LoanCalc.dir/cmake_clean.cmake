@@ -4,7 +4,7 @@ file(REMOVE_RECURSE
   "LoanCalc.pdb"
   "LoanCalc.exe"
   "LoanCalc.exe.manifest"
-  "libLoanCalc.dll.a"
+  "LoanCalc.lib"
 )
 
 # Per-language clean rules from dependency scanning.
